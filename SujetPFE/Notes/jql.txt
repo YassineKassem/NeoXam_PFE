@@ -1,0 +1,3 @@
+project = DHRD AND status not in ("Canceled" , "Rejected") AND description IS NOT EMPTY  AND type NOT IN ("Task", "Sub-task","Test Execution","Test","Retrofit","Defect") and resolution != Unresolved and "Module - Feature" is not EMPTY and assignee is not EMPTY and "Solution Description" is not EMPTY
+
+nombre de tickets est 1 of 1630
